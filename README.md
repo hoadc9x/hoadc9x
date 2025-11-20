@@ -1,4 +1,4 @@
-<!-- doconghoa1098 -->
+<!-- hoadc9x -->
 <a href="#" target="_blank">
   <img src="svg/hoadc.svg" width="1200" alt="hoadc-official" />
 </a>
@@ -35,11 +35,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Doconghoa1098">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doconghoa1098&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="hoadc9x">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoadc9x&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Doconghoa1098">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=doconghoa1098&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="hoadc9x">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hoadc9x&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -48,20 +48,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.topcv.vn/xem-cv/UAACVAUGAAoFAAUCAQUBDAAGCw4HBFAHAwQGXQ07e4" target="blank">
+  <a href="https://www.canva.com/design/DAGuifl806s/N2r4tjpiZls-Xo-MWEZlDA/edit" target="blank">
     <!-- <img width="90" height="90" src="images/logo.jpg" alt="hoadc-blog" style=""/> -->
     <img src="https://img.icons8.com/bubbles/100/000000/resume.png" />
   </a>
-  <a href="https://facebook.com/doconghoa1098" target="blank">
+  <a href="https://facebook.com/hoadc9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoadc-facebook" />
   </a>
-  <a href="https://www.youtube.com/@doconghoa1098" target="blank">
+  <a href="https://www.youtube.com/@hoadc9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hoadc-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/doconghoa1098" target="blank">
+  <a href="https://www.linkedin.com/in/hoadc9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoadc-linkedin" />
   </a>
-  <a href="https://instagram.com/doconghoa1098" target="blank">
+  <a href="https://instagram.com/hoadc9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hoadc-instagram" />
   </a>
   <a href="mailto:doconghoa1098@gmail.com" target="top">
